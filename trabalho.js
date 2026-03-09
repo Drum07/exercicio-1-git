@@ -4,3 +4,10 @@ function ligarDesligar(carro) {
 }
 
 ligarDesligar("corsa")
+
+function abrirFechar(Porta) {
+    console.log("abrindo a " + Porta);
+    console.log("Fechando devagar a " + Porta);
+}
+
+abrirFechar("Porta de ferro")
