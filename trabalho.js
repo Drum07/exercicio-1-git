@@ -11,3 +11,10 @@ function abrirFechar(Porta) {
 }
 
 abrirFechar("Porta de ferro")
+
+function dividir(numero1, numero2) {
+    let resultado = numero1 / numero2;
+    console.log(resultado);
+}
+
+dividir(158, 4);
